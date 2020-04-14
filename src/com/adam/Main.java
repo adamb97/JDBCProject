@@ -10,7 +10,7 @@ public class Main {
 	// write your code here
         String url = "jdbc:mysql://localhost:3306/ecommercedatatbase";
         String user = "root";
-        String pw = "pats4life";
+        String pw = "whateverpassword";
 
         try {
             // 1. Get a connection to the database
