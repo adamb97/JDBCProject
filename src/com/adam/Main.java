@@ -1,7 +1,7 @@
 package com.adam;
 
 
-import com.mysql.cj.protocol.Resultset;
+
 
 import java.sql.*;
 public class Main {
